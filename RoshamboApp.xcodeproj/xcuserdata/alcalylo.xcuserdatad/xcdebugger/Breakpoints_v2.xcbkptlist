@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "RoshamboApp/DisplayViewController.swift"
+            timestampString = "534880583.723218"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "12"
+            endingLineNumber = "12"
+            landmarkName = "DisplayViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "RoshamboApp.DisplayViewController.userChoice.getter : Swift.ImplicitlyUnwrappedOptional&lt;Swift.String&gt;"
+                  moduleName = "RoshamboApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/alcalylo/Desktop/myApps/RoshamboApp/RoshamboApp/DisplayViewController.swift"
+                  timestampString = "534870401.041687"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "96">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "RoshamboApp.DisplayViewController.userChoice.setter : Swift.ImplicitlyUnwrappedOptional&lt;Swift.String&gt;"
+                  moduleName = "RoshamboApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/alcalylo/Desktop/myApps/RoshamboApp/RoshamboApp/DisplayViewController.swift"
+                  timestampString = "534870401.0468"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "230">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "RoshamboApp.DisplayViewController.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__ObjC.Bundle&gt;) -&gt; RoshamboApp.DisplayViewController"
+                  moduleName = "RoshamboApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/alcalylo/Desktop/myApps/RoshamboApp/RoshamboApp/DisplayViewController.swift"
+                  timestampString = "534870401.048589"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "112">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "RoshamboApp.DisplayViewController.init(coder: __ObjC.NSCoder) -&gt; Swift.Optional&lt;RoshamboApp.DisplayViewController&gt;"
+                  moduleName = "RoshamboApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/alcalylo/Desktop/myApps/RoshamboApp/RoshamboApp/DisplayViewController.swift"
+                  timestampString = "534870401.050535"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "81">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
